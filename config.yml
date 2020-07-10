@@ -1,0 +1,14 @@
+HeatPerTNT: 20.0
+FlatCooling: 15.0
+FlatThreshold: 400.0
+HeatThresholdPerBlock: 0.5
+CoolingPerBlock: 0.0075
+SurfaceFireThreshold: 1.0
+SurfaceFireChance: 0.2
+CoolingPerSurfaceFire: 2.0
+InternalFireThreshold: 1.5
+InternalFireChance: 0.01
+CoolingPerInternalFire: 8.0
+ExplosionThreshold: 2.0
+ExplosionChance: 0.01
+CoolingPerExplosion: 20.0

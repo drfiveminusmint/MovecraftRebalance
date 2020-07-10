@@ -1,0 +1,11 @@
+name: MovecraftRebalance
+main: io.github.drfiveminusmint.movecraftrebalance.MovecraftRebalance
+version: 0.1PRE-ALPHA
+api-version: 1.12.2
+author: DrFiveMinusMinus
+commands:
+  mcr:
+    description: MCR master command
+    usage: /mcr <register / debug / addheat / checkheat>
+    permission: movecraftrebalance.mcrcommand
+    permission-message: You don't have permission.
